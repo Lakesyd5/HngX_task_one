@@ -12,9 +12,6 @@ class WebViewScreen extends StatefulWidget {
 class _WebViewState extends State<WebViewScreen> {
 
   // Initialize webview here...
-  // final _controller = WebViewController()
-  //   ..setJavaScriptMode(JavaScriptMode.disabled)
-  //   ..loadRequest(Uri.parse('https://flutter.dev'));
   final _controller = WebViewController()
   ..setJavaScriptMode(JavaScriptMode.disabled)
   ..loadRequest(Uri.parse('https://github.com/Lakesyd5'));

@@ -1,16 +1,14 @@
-# hng_stage_one
+# HngX Task One.
 
-A new Flutter project.
+  - This is a flutter a flutter application.
+  - You must have the flutter sdk intalled to run this app.
 
-## Getting Started
+# Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Make sure you have Flutter and Dart installed on your system.
+2. Clone the repository and run the following commands:
+     * flutter clean
+     * flutter pub get
+     * flutter run
+3. Appetize link 
+   https://appetize.io/app/cciwuipu3efunombpt7eeznqqi     

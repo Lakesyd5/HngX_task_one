@@ -55,7 +55,7 @@ class HomeScreen extends StatelessWidget {
                 ),
                 onPressed: () {
                   // Navigate to webview screen...
-                  Navigator.of(context).push(MaterialPageRoute(builder: (context) => WebViewScreen(),));
+                  Navigator.of(context).push(MaterialPageRoute(builder: (context) => const WebViewScreen(),));
                 },
                 icon: const Icon(Icons.arrow_forward_rounded, color: Colors.white,),
                 label: const AppText(
